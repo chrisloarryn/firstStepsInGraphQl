@@ -1,3 +1,6 @@
+`localhost:4000/graphql`
+<p>and run the queries below</p>
+
 {
 	user(id: "23") {
 	  id,
